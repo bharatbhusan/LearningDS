@@ -9,8 +9,7 @@ public class MaximumSumSubArray
 		System.out.println(maximumSubArray(arr));
 	}
 	/*
-	 * Time Complexity -O(n)
-	 * Space Complexity - O(1)
+	 * Time Complexity -O(n) Space Complexity - O(1)
 	 * Kadane's Algorithim
 	 * Maximum Sum
 	 */
