@@ -12,6 +12,10 @@ public class BalancedParanthesis {
 		System.out.println(isValidParanthesis(str));
 	}
 	
+	/*
+	 * Time Complexity - O(n)
+	 * Space Complexity -O(1)
+	 */
 	public static boolean isValidParanthesis(String str)
 	{
 		
