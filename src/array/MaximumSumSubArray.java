@@ -12,6 +12,7 @@ public class MaximumSumSubArray
 	 * Time Complexity -O(n)
 	 * Space Complexity - O(1)
 	 * Kadane's Algorithim
+	 * Maximum Sum
 	 */
 	public static int maximumSubArray(int arr[])
 	{
